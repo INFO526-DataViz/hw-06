@@ -9,7 +9,7 @@ sentences. Make a commit at least after finishing each exercise, or
 better yet, more frequently. Push your work regularly to GitHub, and
 make sure all checks pass.
 
-1.  **Country populations (improved).** For this exercise you will work with data
+1.  **Country populations (animated).** Recreate the plot you used for For this exercise you will work with data
     on country populations. The data come from [The
     WorldBank](https://data.worldbank.org/indicator/SP.POP.TOTL). The
     dataset you will use is in your `data/` folder and it’s called
@@ -28,6 +28,7 @@ make sure all checks pass.
 
 - Create a racing bar chart, using **gganimate** for the change in
   population for these countries.
+
 
 ------------------------------------------------------------------------
 
