@@ -47,11 +47,11 @@ Dear [STUDENT GITHUB NAME] -- Below is the feedback for your assignment. Please 
 ### Exercise 4: `[_ / 10 points]`
 
 - App code: `[_ / 5 points]`
-- Active link on shiny.io: `[_ / 5 points]`
-- Correct file organization: `[_ / 5 points]`
+- Active link on shiny.io: `[_ / 2.5 points]`
+- Correct file organization: `[_ / 2.5 points]`
 - Feedback: [Insert feedback here.]
 
-### Exercise 5: `[_ / 15 points]`
+### Exercise 5: `[_ / 20 points]`
 - App code: `[_ / 5 points]`
 - New stylizing: `[_ / 5 points]`
 - Active link on shiny.io: `[_ / 5 points]`
